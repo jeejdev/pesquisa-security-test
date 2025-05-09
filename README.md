@@ -72,6 +72,7 @@ sqlmap -u "http://ipv4-local:3000/user?id=1" --batch --dbs --flush-session
 Projeto desenvolvido como parte da disciplina "Qualidade e Testes de Software" — FATEC São José dos Campos, 2025.
 
 Autor: Grupo Antemontegon - ou algo assim - 
+
 Ferramenta principal: OWASP ZAP  
 Tecnologia: Segurança em aplicações web
 
