@@ -19,11 +19,11 @@ Este repositório contém um exemplo prático utilizado na apresentação da dis
 
 ## Estrutura do projeto
 
-api-vulneravel/
-├── index.js         → Código da API vulnerável
-├── index-corrigido.js → Código com correção via prepared statement
-├── README.md        → Este arquivo
-└── init.sql         → Script para criação do banco de dados e tabela
+api-vulneravel/ <br>
+├── index.js         → Código da API vulnerável <br>
+├── index-corrigido.js → Código com correção via prepared statement <br>
+├── README.md        → Este arquivo <br>
+└── init.sql         → Script para criação do banco de dados e tabela <br>
 
 ## Como executar
 
