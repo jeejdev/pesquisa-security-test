@@ -19,11 +19,14 @@ Este repositório contém um exemplo prático utilizado na apresentação da dis
 
 ## Estrutura do projeto
 
-api-vulneravel/ <br>
+SQL Injection/ <br>
 ├── index.js         → Código da API vulnerável <br>
 ├── index-corrigido.js → Código com correção via prepared statement <br>
 ├── README.md        → Este arquivo <br>
 └── init.sql         → Script para criação do banco de dados e tabela <br>
+Bruteforce/
+├── login-server.js  → Arquivo para simular login <br>
+└── banco_senhas.txt → Arquivo de texto contendo senhas <br>
 
 ## Como executar
 
